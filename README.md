@@ -1,2 +1,2 @@
-# harmonius
-This repository is created for the project harmonius
+# Harmonius
+This repository is created for the project harmonius.
